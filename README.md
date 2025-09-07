@@ -16,8 +16,6 @@ Valida JWT de usuario.
 
 Opcional: usa AuthServiceClient (Feign) para traer información de usuario (ej: email, nombre completo) si necesita mostrarla en los pedidos.
 
-
-
 En el desarrollo de microservicios para el proyecto Order Management System, apliqué distintos patrones de diseño de software para lograr una arquitectura limpia, escalable y mantenible:
 
 **Patrones de diseño aplicados en microservicios con Spring Boot**
